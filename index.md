@@ -11,16 +11,19 @@
 <!-- Librerias para iconos font-awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer">
 
-<style>body{background-image:url(lake.9aa79098d56cee4a2a41.jpg);}</style><link rel="stylesheet" href="styles.dadc4735ff92a67f5065.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.dadc4735ff92a67f5065.css"></noscript></head>
-<body>
-
-	
-  <app-root></app-root>
+<style>body{background-image:url(lake.9aa79098d56cee4a2a41.jpg);}</style><link rel="stylesheet" href="styles.dadc4735ff92a67f5065.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.dadc4735ff92a67f5065.css"></noscript>
 
 <!-- Librerias de boostrap -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
  <script src="https://cdn.jsdelivr.net/npm/ngx-toastr@14.1.0/bundles/ngx-toastr.umd.min.js"></script>
 
 <script src="runtime.739f10bb4e683193c063.js" defer></script><script src="polyfills.eba5eaec29c37dfbb59e.js" defer></script><script src="main.83ebc62c6ff011bd6a49.js" defer></script>
+</head>
+<body>
+
+	
+  <app-root></app-root>
+
+
 
 </body></html>
