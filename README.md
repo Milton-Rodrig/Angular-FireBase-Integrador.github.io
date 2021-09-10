@@ -1,4 +1,4 @@
-# Proyecto de angular y firebase
+# Proyecto: Angular y Firebase
 Integrando el aprendizaje del modulo de angular <br>
 # CRUD 
 He creado un CRUD en Angular (Create, Read, Update, Delete), utilizando: BackEnd, Firebase, Firestore, deployar el proyecto <br>
